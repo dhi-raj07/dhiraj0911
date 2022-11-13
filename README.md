@@ -12,9 +12,9 @@ I'm Dhiraj😉 I'm a developer who is passionate about exploring new Tech!
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing a <strong>B Tech Artificial Intelligence and Data Science</strong>.
-- 🔭 I’m currently working on <strong>Blockchain, Web3, Dapp</strong> and <strong> Web development</strong>
-- 🌱 I’m currently learning <strong>Ethereum, Smart Contracts</strong> and <strong>DSA</strong>
+- 💼 I’m pursuing <strong>B Tech</strong> in <strong> Artificial Intelligence and Data Science</strong>.
+- 🔭 I’m currently working on <strong>Web3, Dapps</strong> and <strong> Web development</strong>.
+- 🌱 I’m currently learning <strong>DSA</strong>.
 - 🤔 My research interests are with <strong>Blockchain</strong>
 - 🔍 I’m looking for career opportunities in the <strong>IT</strong> industry
 - 💬 Feel free to discuss with me about <strong> resources for Coding and placements</strong>
